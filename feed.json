@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "CKenshin",
+    "title": "CKenshin Blog",
     "description": "",
     "home_page_url": "https://crackedkenshin.github.io",
     "feed_url": "https://crackedkenshin.github.io/feed.json",
@@ -10,32 +10,18 @@
     },
     "items": [
         {
-            "id": "https://crackedkenshin.github.io/test-push-2.html",
-            "url": "https://crackedkenshin.github.io/test-push-2.html",
-            "title": "Test Push #2",
-            "summary": "Okay This is a Heading Disney's Robin Hood And now this is what things will look like with another image in it.&nbsp;",
-            "content_html": "\n    <h2 id=\"okay-this-is-a-heading\">\n      Okay This is a Heading\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://crackedkenshin.github.io/media/posts/2/2025-05-10_09-46.png\" height=\"546\" width=\"895\" alt=\"\"  sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-xs.png 640w ,https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-sm.png 768w ,https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-md.png 1024w ,https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-lg.png 1366w ,https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-xl.png 1600w ,https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-2xl.png 1920w\">\n      <figcaption>Disney's Robin Hood</figcaption>\n    </figure>\n\n  <p>\n    And now this is what things will look like with another image in it.&nbsp;\n  </p>",
+            "id": "https://crackedkenshin.github.io/burrito.html",
+            "url": "https://crackedkenshin.github.io/burrito.html",
+            "title": "Burrito",
+            "summary": "Okie doke. I've moved things along",
+            "content_html": "\n  <p>\n    Okie doke. I've moved things along\n  </p>\n\n  <p>\n    \n  </p>",
             "author": {
                 "name": "CKenshin"
             },
             "tags": [
             ],
-            "date_published": "2025-08-08T18:32:02-04:00",
-            "date_modified": "2025-08-08T18:32:02-04:00"
-        },
-        {
-            "id": "https://crackedkenshin.github.io/test-push.html",
-            "url": "https://crackedkenshin.github.io/test-push.html",
-            "title": "Test Push",
-            "summary": "This is simply a test Testing to see if this will push from publii",
-            "content_html": "<h2 id=\"this-is-simply-a-test\">This is simply a test</h2>\n<p>Testing to see if this will push from publii</p>",
-            "author": {
-                "name": "CKenshin"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-08T18:23:17-04:00",
-            "date_modified": "2025-08-08T18:23:17-04:00"
+            "date_published": "2025-08-08T19:32:31-04:00",
+            "date_modified": "2025-08-08T19:32:31-04:00"
         }
     ]
 }
