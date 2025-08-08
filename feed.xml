@@ -3,12 +3,44 @@
     <title>CKenshin</title>
     <link href="https://crackedkenshin.github.io/feed.xml" rel="self" />
     <link href="https://crackedkenshin.github.io" />
-    <updated>2025-08-08T18:23:17-04:00</updated>
+    <updated>2025-08-08T18:32:02-04:00</updated>
     <author>
         <name>CKenshin</name>
     </author>
     <id>https://crackedkenshin.github.io</id>
 
+    <entry>
+        <title>Test Push #2</title>
+        <author>
+            <name>CKenshin</name>
+        </author>
+        <link href="https://crackedkenshin.github.io/test-push-2.html"/>
+        <id>https://crackedkenshin.github.io/test-push-2.html</id>
+
+        <updated>2025-08-08T18:32:02-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Okay This is a Heading Disney's Robin Hood And now this is what things will look like with another image in it.&nbsp;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="okay-this-is-a-heading">
+      Okay This is a Heading
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://crackedkenshin.github.io/media/posts/2/2025-05-10_09-46.png" height="546" width="895" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-xs.png 640w ,https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-sm.png 768w ,https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-md.png 1024w ,https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-lg.png 1366w ,https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-xl.png 1600w ,https://crackedkenshin.github.io/media/posts/2/responsive/2025-05-10_09-46-2xl.png 1920w">
+      <figcaption>Disney's Robin Hood</figcaption>
+    </figure>
+
+  <p>
+    And now this is what things will look like with another image in it.&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test Push</title>
         <author>
