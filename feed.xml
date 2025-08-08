@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>CKenshin</title>
+    <link href="https://crackedkenshin.github.io/feed.xml" rel="self" />
+    <link href="https://crackedkenshin.github.io" />
+    <updated>2025-08-08T18:23:17-04:00</updated>
+    <author>
+        <name>CKenshin</name>
+    </author>
+    <id>https://crackedkenshin.github.io</id>
+
+    <entry>
+        <title>Test Push</title>
+        <author>
+            <name>CKenshin</name>
+        </author>
+        <link href="https://crackedkenshin.github.io/test-push.html"/>
+        <id>https://crackedkenshin.github.io/test-push.html</id>
+
+        <updated>2025-08-08T18:23:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                    This is simply a test Testing to see if this will push from publii
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="this-is-simply-a-test">This is simply a test</h2>
+<p>Testing to see if this will push from publii</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

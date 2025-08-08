@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CKenshin",
+    "description": "",
+    "home_page_url": "https://crackedkenshin.github.io",
+    "feed_url": "https://crackedkenshin.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "CKenshin"
+    },
+    "items": [
+        {
+            "id": "https://crackedkenshin.github.io/test-push.html",
+            "url": "https://crackedkenshin.github.io/test-push.html",
+            "title": "Test Push",
+            "summary": "This is simply a test Testing to see if this will push from publii",
+            "content_html": "<h2 id=\"this-is-simply-a-test\">This is simply a test</h2>\n<p>Testing to see if this will push from publii</p>",
+            "author": {
+                "name": "CKenshin"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-08T18:23:17-04:00",
+            "date_modified": "2025-08-08T18:23:17-04:00"
+        }
+    ]
+}
